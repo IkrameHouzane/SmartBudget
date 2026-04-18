@@ -2,16 +2,6 @@
 
 > Application Android **offline-first** de gestion de budget personnel — Mini-Projet Module Développement Mobile 2025-2026
 
-<p align="center">
-  <img src="screenshots/splash.png" width="200" alt="Splash Screen"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/depenses.png" width="200" alt="Dépenses"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/stats.png" width="200" alt="Statistiques"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/parametres.png" width="200" alt="Paramètres"/>
-</p>
-
 ---
 
 ## 📋 Description
