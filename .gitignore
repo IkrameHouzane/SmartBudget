@@ -1,0 +1,62 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+build/
+
+# Gradle files
+.gradle/
+local.properties
+gradle/wrapper/gradle-wrapper.jar
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+.idea/modules.xml
+*.eml
+*.tfstate
+*.tfstate.backup
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# External native build
+.externalNativeBuild
+.cxx/
+
+# Room database export (si exportSchema = true)
+app/schemas/
+
+# Keystore
+*.jks
+*.keystore
+
+# Log files
+*.log
+
+# Node (si tu utilises des outils JS)
+node_modules/
